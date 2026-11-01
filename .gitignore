@@ -1,0 +1,13 @@
+# SQL Server / SSMS / Azure Data Studio
+*.mdf
+*.ldf
+*.ndf
+*.bak
+*.trn
+*.log
+*.user
+*.suo
+.vs/
+.vscode/
+.ads/
+.DS_Store
